@@ -54,7 +54,3 @@ The AI agent's functionality is demonstrated with different customer queries, an
 Feel free to fork the repository, submit issues, or create pull requests to improve the examples or add new ones.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.

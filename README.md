@@ -54,3 +54,5 @@ The AI agent's functionality is demonstrated with different customer queries, an
 Feel free to fork the repository, submit issues, or create pull requests to improve the examples or add new ones.
 
 ---
+
+Read the full blog [Learn Pydantic AI by ProjectPro](https://www.projectpro.io/article/pydantic-ai/1088) for a detailed explanation.
